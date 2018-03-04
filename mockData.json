@@ -1,0 +1,9 @@
+{
+    "carouselModel": {
+        "title": "标题",
+        "pictureId": 1,
+        "url": "http:www.baidu.com",
+        "sort": 1,
+        "disable": false
+    }
+}
